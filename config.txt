@@ -1,0 +1,7 @@
+owner=551009437482090498
+prefix=!
+game=xd5_king
+stayinchannel=true
+songinstatus=false
+token= NTg3MTg1Nzg3NTU3MTE3OTUy.XPy6-Q.IHGnkq71AwMuDCelEcgO0_VVOt0
+ 
